@@ -1,2 +1,14 @@
 asd
-git checkout -b "name"
+1.) git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+2.) git checkout -b "name"
+    creates new branch
+
+3.) git add -A
+
+4.) git commit -m "message"
+
+5.) git push origin -u "branch name"
+
+6.) open pull request aasign reviewers
