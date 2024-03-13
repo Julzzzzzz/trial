@@ -9,6 +9,6 @@ asd
 
 4.) git commit -m "message"
 
-5.) git push origin -u "branch name"
+5.) git push origin -u 
 
 6.) open pull request aasign reviewers
