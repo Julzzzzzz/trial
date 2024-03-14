@@ -11,4 +11,6 @@ asd
 
 5.) git push origin -u 
 
-6.) open pull request aasign reviewers
+6.) git push --set-upstream "name"
+
+7.) open pull request aasign reviewers
